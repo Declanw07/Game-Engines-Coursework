@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngines - Declan Wylie - Project", "GameEngines - Declan Wylie - Project.csproj", "{2B75E52C-2B05-60E5-6052-CFD26C9813F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngines - Declan Wylie - Project.Plugins", "GameEngines - Declan Wylie - Project.Plugins.csproj", "{FB2CC434-94DA-016D-964D-AC4C14CBCBC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B75E52C-2B05-60E5-6052-CFD26C9813F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B75E52C-2B05-60E5-6052-CFD26C9813F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B75E52C-2B05-60E5-6052-CFD26C9813F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B75E52C-2B05-60E5-6052-CFD26C9813F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2CC434-94DA-016D-964D-AC4C14CBCBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2CC434-94DA-016D-964D-AC4C14CBCBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2CC434-94DA-016D-964D-AC4C14CBCBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2CC434-94DA-016D-964D-AC4C14CBCBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

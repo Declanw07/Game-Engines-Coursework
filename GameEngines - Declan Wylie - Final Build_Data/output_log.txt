@@ -1,0 +1,62 @@
+Initialize engine version: 4.6.8f1 (583461196f73)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 2560x1080 60Hz; virtual: 2560x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.693895 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.607190 ms (FindLiveObjects: 0.014414 ms CreateObjectMapping: 0.007507 ms MarkObjects: 0.160055 ms  DeleteObjects: 0.004204 ms)
+
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.497257 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.734815 ms (FindLiveObjects: 0.006306 ms CreateObjectMapping: 0.006306 ms MarkObjects: 0.106303 ms  DeleteObjects: 0.237831 ms)
+
+UnloadTime: 0.333925 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.610494 ms (FindLiveObjects: 0.008408 ms CreateObjectMapping: 0.006606 ms MarkObjects: 0.151947 ms  DeleteObjects: 0.002402 ms)
+
+Loading Chunk1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: C:\Users\declan\Desktop\Wylie_Declan_WorkingWithGameEngines\GameEngines - Declan Wylie - Final Build_Data\Managed\System.Xml.dll (this message is harmless)
+Loading Chunk1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Loading Chunk1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.412601 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.572357 ms (FindLiveObjects: 0.005705 ms CreateObjectMapping: 0.006306 ms MarkObjects: 0.134530 ms  DeleteObjects: 0.049548 ms)
+
